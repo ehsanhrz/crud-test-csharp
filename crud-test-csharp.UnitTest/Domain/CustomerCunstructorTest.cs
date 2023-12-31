@@ -21,7 +21,7 @@ namespace crud_test_csharp.UnitTest.Domain
             var firstName = "Ehsan";
             var lastName = "HeidarZadeh";
             var dateOfBirth = DateTime.Today;
-            var phoneNumber = "+989919697506";
+            var phoneNumber = "+6555555";
             var email = "ehsanheidarzadeh959@gmail.com";
             var bankAccountNumber = "10.546521.10";
 
